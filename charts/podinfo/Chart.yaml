@@ -9,4 +9,4 @@ maintainers:
 name: podinfo
 sources:
 - https://github.com/stefanprodan/podinfo
-version: 6.3.6
+version: 6.3.7
